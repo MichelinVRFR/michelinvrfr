@@ -1,6 +1,6 @@
-# Hi, I'm Megatron! 👋
+# Hi, I'm Michelin! 👋
 
-I'm a little french developper that loves Minecraft and loves old Roblox revivals (such as Novetus and Only Retro Roblox Here)
+im a indie developer, i made some little projects if you want.
 
 ## 🛠 Skills
-I can make datapack for Minecraft Java, hosting web services, game servers...
+servers, games servers, protocols (still learning btw)...
